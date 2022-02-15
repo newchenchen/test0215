@@ -1,5 +1,6 @@
 package com.cc.domain;
 //推荐和表名一样，容易记忆
+//first colone then commit
 public class Student {
     private Integer id;
     private String name;
